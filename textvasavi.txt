@@ -1,4 +1,5 @@
 a=10
 b=20
-c=a+b
+x=100
+c=a+b+x
 print(c)
